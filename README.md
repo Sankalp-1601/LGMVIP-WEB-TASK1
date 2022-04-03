@@ -1,4 +1,4 @@
-# OIBGRIP..github.io
+# LGMVIP Task 1
 
 
 Instruction for task :-
